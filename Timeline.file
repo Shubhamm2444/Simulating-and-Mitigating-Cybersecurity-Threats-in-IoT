@@ -1,0 +1,12 @@
+Timeline
+Phase                            	Activities                                    	Duration
+Environment                Setup	Hardware and software setup     	               2 weeks
+Attack              Simulation	Implement and simulate attacks	                   3 weeks
+Security              Implementation	Apply and test security measures           	 3 weeks
+Data Analysis	               Collect and analyze data	                             2 weeks
+Report Writing    	           Document findings and recommendations               2 weeks
+Review and Finalization	               Review and finalize the report              1 week
+
+
+Conclusion
+This project provides a practical understanding of IoT cybersecurity threats and the effectiveness of various mitigation strategies. By simulating real-world attacks and defenses, it aims to enhance the security and resilience of IoT ecosystems.
